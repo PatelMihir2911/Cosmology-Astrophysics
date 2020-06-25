@@ -5,7 +5,7 @@
   - Rajat Kumar Singh
   - Saurabh 
   - Shwetank
-  - Mihir
+  - Patel Mihir 
   - Aadarsh
   - Dhruvi
   - Jay (!)
